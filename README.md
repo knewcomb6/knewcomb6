@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-* 🔭 I’m currently working on my Masters of Computer Science at Georgia Tech ⚡
-* I have an Aerospace Engineering Deegree from Auburn University
-* For my day job, I develop missile defense models and simulations
+
 
 <!--
 **knewcomb6/knewcomb6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
